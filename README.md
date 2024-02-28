@@ -1,4 +1,4 @@
-# ProjetoIndividual - Módulo 5
+# Projeto Individual - Módulo 5
 
 ## Análise de Atrito de Funcionários no Setor de Marketing
 
